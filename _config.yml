@@ -25,11 +25,11 @@ social:
   - title: twitter
     url: http://twitter.com/inyenia
   - title: facebook
-    url:
+    url: https://es-es.facebook.com/inyenia
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/users/4046750/inyenia
+  - title: linkedin
+    url: https://es.linkedin.com/in/inyenia
   - title: github
     url: http://github.com/inyenia
 
